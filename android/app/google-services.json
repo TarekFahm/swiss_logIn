@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "892179015776",
+    "firebase_url": "https://swiss-545b9.firebaseio.com",
+    "project_id": "swiss-545b9",
+    "storage_bucket": "swiss-545b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892179015776:android:d0dbfea5dd4db13595fb05",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892179015776-ri2m3as0b9eaophdtsdve0jaruggeecm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqc6hkEi7p8WL6-PBdN-E2lKqQztBUkdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892179015776-ri2m3as0b9eaophdtsdve0jaruggeecm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892179015776:android:f9665bf24e3afed295fb05",
+        "android_client_info": {
+          "package_name": "company.flutterswiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892179015776-ri2m3as0b9eaophdtsdve0jaruggeecm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqc6hkEi7p8WL6-PBdN-E2lKqQztBUkdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892179015776-ri2m3as0b9eaophdtsdve0jaruggeecm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
