@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'MyApp Title',
       theme: buildTheme(),
       //onGenerateRoute: Navigation.router.generator,
       debugShowCheckedModeBanner: false,
